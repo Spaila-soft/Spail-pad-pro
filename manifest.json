@@ -1,6 +1,6 @@
 {
-  "name": "Spailpad",
-  "short_name": "Spailpad",
+  "name": "Spailpad pro",
+  "short_name": "Spailpad pro",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
